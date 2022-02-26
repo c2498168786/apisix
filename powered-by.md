@@ -1,5 +1,5 @@
 ---
-title: Powered by Apache APISIX
+title: Powered by Apache APISIXA
 ---
 
 <!--
